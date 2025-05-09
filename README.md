@@ -1,5 +1,3 @@
-# Create a folder for your test project
-mkdir playwright-todo-test && cd playwright-todo-test
 
 # Initialize npm project
 npm init -y
